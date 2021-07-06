@@ -39,8 +39,10 @@ Node updated version
 
 
 ## Author
+>>>>>>> main
 
 👤 **EllaouziHamza**
+
 
 - GitHub: [@hamzaoutdoors](https://github.com/Hamzaoutdoors)
 - LinkedIn: [@Ellaouzihamza](https://www.linkedin.com/in/hamza-ellaouzi-137a45b8/)
