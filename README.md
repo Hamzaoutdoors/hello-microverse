@@ -39,7 +39,7 @@ Node updated version
 
 
 ## Author
->>>>>>> main
+
 
 👤 **EllaouziHamza**
 
