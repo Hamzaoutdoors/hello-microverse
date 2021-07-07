@@ -38,10 +38,17 @@ Node updated version
 
 
 
+
+## Authors
+
+👤 **EllaouziHamza**
+
+
 ## Author
 
 
 👤 **EllaouziHamza**
+
 
 
 - GitHub: [@hamzaoutdoors](https://github.com/Hamzaoutdoors)
